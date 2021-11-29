@@ -2,5 +2,5 @@
   (lib (name TRANS_AON7403)(type KiCad)(uri ${KIPRJMOD}/libraries/TRANS_AON7403)(options "")(descr ""))
   (lib (name Molex105450-0101)(type KiCad)(uri ${KIPRJMOD}/libraries/Molex105450-0101)(options "")(descr ""))
   (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/libraries/TMC2209-LA/footprints.pretty)(options "")(descr ""))
-  (lib (name HuvudTiny2)(type KiCad)(uri "C:/Users/abq236/OneDrive - haw-hamburg.de/Dateien/Projekte/Github/KlipperToolboard/PCB/HuvudTiny2/Huvud.pretty")(options "")(descr ""))
+  (lib (name HuvudTiny2)(type KiCad)(uri ${KIPRJMOD}/libraries/Huvud/Huvud.pretty)(options "")(descr ""))
 )
