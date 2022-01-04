@@ -3029,6 +3029,13 @@
     (uuid 77d87ef3-6155-47d5-b2cb-b85e38edc2bf)
   )
   (wire (pts (xy 377.19 158.75) (xy 389.89 158.75))
+<<<<<<< HEAD
+=======
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 79adf275-9d43-49d5-9ea6-1ab4229453db)
+  )
+  (wire (pts (xy 52.07 110.49) (xy 49.53 110.49))
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 79adf275-9d43-49d5-9ea6-1ab4229453db)
   )
@@ -4668,7 +4675,11 @@
   (symbol (lib_id "Device:R_Small") (at 406.4 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 09c9aa97-b9f2-4117-93a4-1ce43f697427)
+<<<<<<< HEAD
     (property "Reference" "R34" (id 0) (at 408.94 36.8299 0)
+=======
+    (property "Reference" "R34" (id 0) (at 397.51 36.8299 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (id 1) (at 408.94 39.3699 0)
@@ -5437,10 +5448,17 @@
     (pin "1" (uuid 3c3538ab-72e2-4fb2-9213-34f62acef354))
   )
 
+<<<<<<< HEAD
   (symbol (lib_id "Device:C_Small") (at 397.51 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4117cc02-885f-4acc-919a-f9bde104a120)
     (property "Reference" "C44" (id 0) (at 400.05 36.8362 0)
+=======
+  (symbol (lib_id "Device:C_Small") (at 386.08 38.1 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 4117cc02-885f-4acc-919a-f9bde104a120)
+    (property "Reference" "C44" (id 0) (at 388.62 36.8362 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "75p" (id 1) (at 400.05 39.3762 0)
@@ -5509,7 +5527,11 @@
   (symbol (lib_id "power:GND") (at 317.5 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 434f2fbd-322f-4975-a8ae-f9d4f20db4f8)
+<<<<<<< HEAD
     (property "Reference" "#PWR086" (id 0) (at 317.5 40.64 0)
+=======
+    (property "Reference" "#PWR086" (id 0) (at 316.23 40.64 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 317.5 39.37 0))
@@ -5871,7 +5893,11 @@
   (symbol (lib_id "power:GND") (at 274.32 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5db2a420-1642-42db-a9a5-7543f535e539)
+<<<<<<< HEAD
     (property "Reference" "#PWR077" (id 0) (at 274.32 40.64 0)
+=======
+    (property "Reference" "#PWR077" (id 0) (at 287.02 40.64 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 274.32 39.37 0))
@@ -6444,7 +6470,11 @@
   (symbol (lib_id "power:+24V") (at 317.5 21.59 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 809d9184-c2ff-4755-94cc-166da275d95d)
+<<<<<<< HEAD
     (property "Reference" "#PWR080" (id 0) (at 317.5 25.4 0)
+=======
+    (property "Reference" "#PWR080" (id 0) (at 302.26 25.4 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+24V" (id 1) (at 317.5 17.78 0))
@@ -6578,7 +6608,11 @@
   (symbol (lib_id "power:+5V") (at 406.4 24.13 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 886f7dca-25fe-4231-b7d5-6e34ec28d396)
+<<<<<<< HEAD
     (property "Reference" "#PWR0118" (id 0) (at 406.4 27.94 0)
+=======
+    (property "Reference" "#PWR0118" (id 0) (at 394.97 27.94 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at 406.4 20.32 0))
@@ -7343,7 +7377,11 @@
   (symbol (lib_id "Device:C_Small") (at 317.5 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b7ed8fd4-333d-4538-af36-51ed46fe9962)
+<<<<<<< HEAD
     (property "Reference" "C27" (id 0) (at 320.04 27.9462 0)
+=======
+    (property "Reference" "C27" (id 0) (at 318.77 27.9462 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n/35V" (id 1) (at 320.04 30.4862 0)
@@ -7546,7 +7584,11 @@
   (symbol (lib_id "Device:C_Small") (at 303.53 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c0168ae5-ebab-4658-aeba-5a2b791d635a)
+<<<<<<< HEAD
     (property "Reference" "C22" (id 0) (at 306.07 27.9462 0)
+=======
+    (property "Reference" "C22" (id 0) (at 304.8 27.9462 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u/35V" (id 1) (at 306.07 30.4862 0)
@@ -7710,7 +7752,11 @@
   (symbol (lib_id "power:GND") (at 406.4 48.26 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c48aab04-f9fc-4a9c-82f4-c1941d3405b5)
+<<<<<<< HEAD
     (property "Reference" "#PWR0119" (id 0) (at 406.4 54.61 0)
+=======
+    (property "Reference" "#PWR0119" (id 0) (at 394.97 54.61 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 411.48 49.53 0))
@@ -7835,7 +7881,11 @@
   (symbol (lib_id "power:GND") (at 303.53 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cf18e6e9-0c71-48fb-81e8-83246eb033d0)
+<<<<<<< HEAD
     (property "Reference" "#PWR081" (id 0) (at 303.53 40.64 0)
+=======
+    (property "Reference" "#PWR081" (id 0) (at 302.26 40.64 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 303.53 39.37 0))
@@ -7962,7 +8012,11 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 274.32 29.21 0) (unit 1)
     (in_bom no) (on_board no) (fields_autoplaced)
     (uuid d77a575d-2cee-48b1-99dd-4751106be89b)
+<<<<<<< HEAD
     (property "Reference" "C20" (id 0) (at 276.86 27.3938 0)
+=======
+    (property "Reference" "C20" (id 0) (at 289.56 27.3938 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47u/35V" (id 1) (at 276.86 29.9338 0)
@@ -8087,7 +8141,11 @@
   (symbol (lib_id "Device:R_Small") (at 406.4 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid db15561b-c801-4181-aeab-37d60971c2b8)
+<<<<<<< HEAD
     (property "Reference" "R35" (id 0) (at 408.94 44.4499 0)
+=======
+    (property "Reference" "R35" (id 0) (at 397.51 44.4499 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "13k" (id 1) (at 408.94 46.9899 0)
@@ -8190,7 +8248,11 @@
   (symbol (lib_id "Device:R_Small") (at 406.4 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e1fcd0a4-5f0a-4c29-87c3-79e3ddfe5cb2)
+<<<<<<< HEAD
     (property "Reference" "R33" (id 0) (at 408.94 29.2099 0)
+=======
+    (property "Reference" "R33" (id 0) (at 397.51 29.2099 0)
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "49.9" (id 1) (at 408.94 31.7499 0)
@@ -9278,12 +9340,15 @@
     )
     (path "/4117cc02-885f-4acc-919a-f9bde104a120"
       (reference "C44") (unit 1) (value "75p") (footprint "Capacitor_SMD:C_0402_1005Metric")
+<<<<<<< HEAD
     )
     (path "/00a638be-2f6f-427b-88d5-ac57bad0525d"
       (reference "C45") (unit 1) (value "10u/35V") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/7e7ea367-8bf2-4e94-b1ea-4fec79690f35"
       (reference "C46") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_0805_2012Metric")
+=======
+>>>>>>> af8e609d9e7e9462693e0c654d3486b3ca492cc5
     )
     (path "/78a779d5-26cf-4262-861e-c65581e58d35"
       (reference "D1") (unit 1) (value "PCF") (footprint "LED_SMD:LED_0402_1005Metric")
