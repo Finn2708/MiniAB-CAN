@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.62,
-          "width": 0.56
+          "height": 0.3,
+          "width": 1.475
         },
         "silk_line_width": 0.15239999999999998,
         "silk_text_italic": false,
@@ -44,7 +44,7 @@
         "silk_text_thickness": 0.15239999999999998,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
+          "45_degree_only": true,
           "min_clearance": 0.127
         }
       },
@@ -395,7 +395,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MiniAB-CAN-Board.step",
       "vrml": ""
     },
     "page_layout_descr_file": "default.kicad_wks"
