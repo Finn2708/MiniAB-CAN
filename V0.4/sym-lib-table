@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "TS30041")(type "KiCad")(uri "${KIPRJMOD}/libraries/TS30041-M050QFNR/eec.kicad_sym")(options "")(descr ""))
+)
