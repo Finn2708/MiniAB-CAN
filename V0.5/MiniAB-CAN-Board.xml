@@ -1,0 +1,2947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\finnw\OneDrive - haw-hamburg.de\Dateien\Projekte\Github\MiniAB-CAN\V0.5\MiniAB-CAN-Board.kicad_sch</source>
+    <date>27/02/2022 10:08:15</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>MiniAB-CAN-Board.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <datasheet>https://lcsc.com/product-detail/Tantalum-Capacitors_AVX-TAJA106K016RNJ_C7171.html</datasheet>
+      <fields>
+        <field name="Description">±10% 16V Tantalum</field>
+        <field name="LCSC#">C7171</field>
+        <field name="MFG#">TAJA106K016RNJ</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 16V Tantalum"/>
+      <property name="LCSC#" value="C7171"/>
+      <property name="MFG#" value="TAJA106K016RNJ"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d82d3601-253c-4b89-96e5-07ae7076e789</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>12p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Darfon-Elec-C1005NP0120KGT_C258502.html</datasheet>
+      <fields>
+        <field name="Description">±10% 50V</field>
+        <field name="LCSC#">C258502</field>
+        <field name="MFG#">C1005NP0120KGT</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC#" value="C258502"/>
+      <property name="MFG#" value="C1005NP0120KGT"/>
+      <property name="Description" value="±10% 50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14801f37-79d1-483e-b9a4-c60ec319ced7</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f00bd9d-a849-46d2-a213-709355e67067</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4d6504f-b6c2-42a8-94db-0b17e0c245b7</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>12p</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Darfon-Elec-C1005NP0120KGT_C258502.html</datasheet>
+      <fields>
+        <field name="Description">±10% 50V</field>
+        <field name="LCSC#">C258502</field>
+        <field name="MFG#">C1005NP0120KGT</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC#" value="C258502"/>
+      <property name="MFG#" value="C1005NP0120KGT"/>
+      <property name="Description" value="±10% 50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>434decae-166a-4cc3-b4f5-c48bfc3d2faf</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f79850b5-adde-45be-94d0-d2b351abdf62</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7da8c0c-7a8d-44f6-a8be-b01768f7f8fb</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e924230-b253-4e7e-832a-3ae36ebd7eae</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efcd4668-90f4-4757-8e2e-06f7c601a49c</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8b9eca4-fd63-4ce7-ac13-09384c2531a0</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SANYEAR-C0402X5R475M250NT_C2911388.html</datasheet>
+      <fields>
+        <field name="Description">±10% 25V X5R</field>
+        <field name="LCSC#">C2911388</field>
+        <field name="MFG#">C0402X5R475M250NT</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC#" value="C2911388"/>
+      <property name="MFG#" value="C0402X5R475M250NT"/>
+      <property name="Description" value="±10% 25V X5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a296c28-391c-411b-a5bd-3fac99adbaf7</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d96ab291-c137-467b-8338-baaaee364e0b</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05A105KA5NQNC_C52923.html</datasheet>
+      <fields>
+        <field name="Description">±10% 25V X5R</field>
+        <field name="LCSC#">C52923</field>
+        <field name="MFG#">CL05A105KA5NQNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 25V X5R"/>
+      <property name="LCSC#" value="C52923"/>
+      <property name="MFG#" value="CL05A105KA5NQNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81a6d9a2-27f6-47e7-9237-e54470de2f32</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7022e8c-d111-4e85-9541-3cf0b4d40844</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>2u2</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Description">±10% 10V X7S</field>
+        <field name="LCSC#">C415540</field>
+        <field name="MFG#">GRT155C71A225KE13D</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 10V X7S"/>
+      <property name="LCSC#" value="C415540"/>
+      <property name="MFG#" value="GRT155C71A225KE13D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7654ff42-3585-4a4e-8016-335e1210ba13</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6090c68b-a3f8-46e7-a011-c7e719e60076</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05A105KA5NQNC_C52923.html</datasheet>
+      <fields>
+        <field name="Description">±10% 25V X5R</field>
+        <field name="LCSC#">C52923</field>
+        <field name="MFG#">CL05A105KA5NQNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 25V X5R"/>
+      <property name="LCSC#" value="C52923"/>
+      <property name="MFG#" value="CL05A105KA5NQNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da799772-a2f2-46ff-9811-a182fcc42e71</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb67b81c-bae4-4fb6-9966-e0c008833089</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>10u/35V</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Taiyo-Yuden-GMK316AB7106KL-TR_C454102.html</datasheet>
+      <fields>
+        <field name="Description">±10% 35V X7R</field>
+        <field name="LCSC#">C454102</field>
+        <field name="MFG#">GMK316AB7106KL-TR</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 35V X7R"/>
+      <property name="LCSC#" value="C454102"/>
+      <property name="MFG#" value="GMK316AB7106KL-TR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7ec0c43-e522-43c3-884a-03471409d173</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100n/35V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20965051-f34f-42d3-8063-1fad725a9899</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>22n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX7R9BB223_C107026.html</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C107026</field>
+        <field name="MFG#">CC0402KRX7R9BB223</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C107026"/>
+      <property name="MFG#" value="CC0402KRX7R9BB223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61478f79-bd79-4193-8b1e-b944d1a9ea07</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4270d355-b35d-4f5f-b5cc-26a5455108fb</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SANYEAR-C1206X7R226K160NT_C2896665.html</datasheet>
+      <fields>
+        <field name="Description">±10% 16V X7R</field>
+        <field name="LCS#">C2896665</field>
+        <field name="MFG#">C1206X7R226K160NT</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 16V X7R"/>
+      <property name="LCS#" value="C2896665"/>
+      <property name="MFG#" value="C1206X7R226K160NT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe525aef-e355-45f2-b345-1ce1a170b690</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>10u/35V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_TDK-C2012X5R1V226MT000E_C338080.pdf</datasheet>
+      <fields>
+        <field name="Description">±10% 35V X5R</field>
+        <field name="LCSC#">C338080</field>
+        <field name="MFG#">C2012X5R1V226MT000E</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 35V X5R"/>
+      <property name="LCSC#" value="C338080"/>
+      <property name="MFG#" value="C2012X5R1V226MT000E"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e05a637c-73aa-4b22-be5e-f1100ab39363</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>22n/50V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_FHGuangdong-Fenghua-Advanced-Tech-0402B223K500NT_C1532.html</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C1532</field>
+        <field name="MFG#">0402B223K500NT</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C1532"/>
+      <property name="MFG#" value="0402B223K500NT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31046e33-8fde-4e9f-a171-5c4a4629637f</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>100n/35V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ac1a726-97f5-4817-8b3d-381df0cba3aa</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SANYEAR-C0402X5R475M250NT_C2911388.html</datasheet>
+      <fields>
+        <field name="Description">±10% 25V X5R</field>
+        <field name="LCSC#">C2911388</field>
+        <field name="MFG#">C0402X5R475M250NT</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC#" value="C2911388"/>
+      <property name="MFG#" value="C0402X5R475M250NT"/>
+      <property name="Description" value="±10% 25V X5R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8306bb4-495d-42a0-a8c5-8d007dbd7633</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>10u/35V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_TDK-C2012X5R1V226MT000E_C338080.pdf</datasheet>
+      <fields>
+        <field name="Description">±10% 35V X5R</field>
+        <field name="LCSC#">C338080</field>
+        <field name="MFG#">C2012X5R1V226MT000E</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 35V X5R"/>
+      <property name="LCSC#" value="C338080"/>
+      <property name="MFG#" value="C2012X5R1V226MT000E"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc6708e3-7ed8-4897-be1b-85874e226b26</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SANYEAR-C1206X7R226K160NT_C2896665.html</datasheet>
+      <fields>
+        <field name="Description">±10% 16V X7R</field>
+        <field name="LCS#">C2896665</field>
+        <field name="MFG#">C1206X7R226K160NT</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 16V X7R"/>
+      <property name="LCS#" value="C2896665"/>
+      <property name="MFG#" value="C1206X7R226K160NT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57cfd571-2331-4da7-8511-f677eaa41997</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>10u/35V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_TDK-C2012X5R1V226MT000E_C338080.pdf</datasheet>
+      <fields>
+        <field name="Description">±10% 35V X5R</field>
+        <field name="LCSC#">C338080</field>
+        <field name="MFG#">C2012X5R1V226MT000E</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 35V X5R"/>
+      <property name="LCSC#" value="C338080"/>
+      <property name="MFG#" value="C2012X5R1V226MT000E"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb272167-1d38-48e9-b2df-fe4b998586cf</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>100n/35V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eef68427-c823-437d-9697-fb49a8d82c8d</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>100n/35V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c152b522-0246-43ef-9eb1-bdc812c02464</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>1n/50V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_KEMET-C0402C102K5RACAUTO_C141053.html</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C141053</field>
+        <field name="MFG#">C0402C102K5RACAUTO</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C141053"/>
+      <property name="MFG#" value="C0402C102K5RACAUTO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c3f2d69-3859-49ed-b529-6f8282a84bd7</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>1n/50V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_KEMET-C0402C102K5RACAUTO_C141053.html</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C141053</field>
+        <field name="MFG#">C0402C102K5RACAUTO</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C141053"/>
+      <property name="MFG#" value="C0402C102K5RACAUTO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24c93a3b-f361-44fc-9b88-8b0536837821</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>100n/35V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52c18732-cac9-4688-bc9c-95817d89367a</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b11f8cd1-009e-44a1-9546-c52fa552c805</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>1n/50V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_KEMET-C0402C102K5RACAUTO_C141053.html</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C141053</field>
+        <field name="MFG#">C0402C102K5RACAUTO</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C141053"/>
+      <property name="MFG#" value="C0402C102K5RACAUTO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>421867ed-b5d2-4896-8bf6-160ece61ce5c</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>10u/35V</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_TDK-C2012X5R1V226MT000E_C338080.pdf</datasheet>
+      <fields>
+        <field name="Description">±10% 35V X5R</field>
+        <field name="LCSC#">C338080</field>
+        <field name="MFG#">C2012X5R1V226MT000E</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 35V X5R"/>
+      <property name="LCSC#" value="C338080"/>
+      <property name="MFG#" value="C2012X5R1V226MT000E"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02737ea3-40c7-43bc-9f34-d26fbca08af3</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>1n/50V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_KEMET-C0402C102K5RACAUTO_C141053.html</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C141053</field>
+        <field name="MFG#">C0402C102K5RACAUTO</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C141053"/>
+      <property name="MFG#" value="C0402C102K5RACAUTO"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24dd97de-18fb-4f33-b4c8-a83dc3b9711a</tstamps>
+    </comp>
+    <comp ref="C46">
+      <value>100n/35V</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e6b6fcc-b273-4c3e-861f-d9352e893624</tstamps>
+    </comp>
+    <comp ref="C47">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC---SMD-SMT_Samsung-Electro-Mechanics-CL05B104KB54PNC_C307331.html%200%20Center%20Center%200%200%201.27%20mm</datasheet>
+      <fields>
+        <field name="Description">±10% 50V X7R</field>
+        <field name="LCSC#">C307331</field>
+        <field name="MFG#">CL05B104KB54PNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Description" value="±10% 50V X7R"/>
+      <property name="LCSC#" value="C307331"/>
+      <property name="MFG#" value="CL05B104KB54PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>061090d4-fcf7-46b1-adad-9395a637965d</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>PCF</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0402R1_C130719.html</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78a779d5-26cf-4262-861e-c65581e58d35</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>HEF</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0402R1_C130719.html</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a11108e1-60c5-4ed2-8209-1e8437fde844</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>H0</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0402R1_C130719.html</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f73bbec1-51c7-403e-af63-1a8e0ac0a528</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>24V</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0402R1_C130719.html</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5e58bff-40c2-4485-a1e3-49910e61ce4a</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>5V</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0402R1_C130719.html</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9efdc2ff-94ce-49a0-8a99-729b04c4276c</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>3V3</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0402R1_C130719.html</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d554bdc8-2a1c-4041-b28a-f167d6ace593</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED0</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0402R1_C130719.html</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f339dc49-bd59-4cef-8351-e9ec5b1abe21</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>15V</value>
+      <footprint>Diode_SMD:D_SOD-323</footprint>
+      <fields>
+        <field name="LCSC#">C327522</field>
+        <field name="MFG#">SZMM3Z15VT1G</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="MFG#" value="SZMM3Z15VT1G"/>
+      <property name="LCSC#" value="C327522"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14598aef-b0b6-466b-9b1e-ce1b496bc20f</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>DIAG</value>
+      <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0402R1_C130719.html</datasheet>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba6bacf7-15f9-4c21-a453-e707bea1e343</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>3.5A</value>
+      <footprint>Fuse:Fuse_0805_2012Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Fuses_Vishay-Intertech-MFU0805FF03500P100_C1972476.html</datasheet>
+      <fields>
+        <field name="LCSC#">C1972476</field>
+        <field name="MFG#">MFU0805FF03500P100</field>
+      </fields>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="LCSC#" value="C1972476"/>
+      <property name="MFG#" value="MFU0805FF03500P100"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b256aa4b-030b-4bfc-9492-e7fc64319a83</tstamps>
+    </comp>
+    <comp ref="FB2">
+      <value>GZ1608D601TF</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c28d7794-ac4e-4cfe-bebe-e9bdbd3c4ffa</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5977a92-2bc8-4834-9cc3-750250a08dc1</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce475a44-44ab-4d02-9952-d450b73d71a3</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>297d6986-8899-419f-884e-cef564d1bff1</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcb5a7e4-abe4-4a07-88aa-93ee32d53fe2</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>PCF</value>
+      <footprint>Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77826c90-f4a7-424c-b031-97d246c01fa2</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>PCF</value>
+      <footprint>Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6af54c4-615a-48ff-921c-0ddd47b4e23f</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>HEF</value>
+      <footprint>Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>127b319a-2f0e-4f59-b566-90da9a7af8dc</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>TH0</value>
+      <footprint>Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08a954c3-89fb-4b1d-825b-225454b14632</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>H0</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-0200_2x01_P3.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>306c795f-9c1e-43ba-b4b1-8c2f8884bb8c</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>NEOPIXEL</value>
+      <footprint>Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>591b9a1c-ec04-4874-9fdc-37350f69dcaa</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>STEPPER</value>
+      <footprint>Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e3762e2-afd6-4d92-a190-c5b2bf918256</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>DEBUG</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x05_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x05" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d32d5708-7da6-4e61-b599-19e1f022282a</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>USB_B_Micro</value>
+      <footprint>Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal</footprint>
+      <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13cc841e-9565-4915-94f5-bc3fa4a3a08e</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>CAN</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b63fdce-170e-40c8-82c5-e589cd68c575</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>E-STOP1</value>
+      <footprint>Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89d3fa0a-7068-4596-aebf-f72dc6f333c4</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>E-STOP2</value>
+      <footprint>Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2f6e4f4-63b6-4f73-a9c4-09f17574a048</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>PROBE</value>
+      <footprint>Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>594f2a4f-f2b7-48a0-ac56-4296241a63b3</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>PCF</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05064964-1935-45ba-a3ed-728f1a01b0a6</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>HEF</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a97ec1b-8cac-4426-aba0-3fac541abae7</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>4.7u</value>
+      <footprint>Inductor_SMD:L_Coilcraft_XxL4020</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2007221004_microgate-MAPM0420F-4R7M-LF_C280916.pdf</datasheet>
+      <fields>
+        <field name="Description">2A 4.7uH ±20% 36mΩ SMD Power Inductor</field>
+        <field name="LCSC#">C280916</field>
+        <field name="MFG#">MAPM0420F-4R7M-LF</field>
+      </fields>
+      <libsource lib="Device" part="L_Iron" description="Inductor with iron core"/>
+      <property name="Description" value="2A 4.7uH ±20% 36mΩ SMD Power Inductor"/>
+      <property name="LCSC#" value="C280916"/>
+      <property name="MFG#" value="MAPM0420F-4R7M-LF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f99cf33e-b708-4799-aec9-efa7bc5dd7b8</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>AO3400A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="AO3400A" description="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5d48510-a1bf-41a2-ae92-eb2a48b8f27f</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>AO3400A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="AO3400A" description="30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>807123e6-0214-4f69-a30b-ed31b6370c11</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>AON7418</value>
+      <footprint>footprints:AON7418</footprint>
+      <datasheet>https://lcsc.com/product-detail/MOSFETs_Alpha-Omega-Semicon-AON7418_C74384.html</datasheet>
+      <fields>
+        <field name="LCSC#">C74384</field>
+        <field name="MFG#">AON7418</field>
+      </fields>
+      <libsource lib="Device" part="Q_NMOS_SGD" description="N-MOSFET transistor, source/gate/drain"/>
+      <property name="LCSC#" value="C74384"/>
+      <property name="MFG#" value="AON7418"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03745367-ff52-42ba-821e-3c175e579ef8</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>SiA449DJ</value>
+      <footprint>Package_TO_SOT_SMD:Vishay_PowerPAK_SC70-6L_Single</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/427/VISH_S_A0001142065_1-2567098.pdf</datasheet>
+      <fields>
+        <field name="LCSC#">C145467</field>
+        <field name="MFG#">SIA483DJ-T1-GE3</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="SiA449DJ" description="-12A Id, -30V Vds, P-Channel MOSFET, PowerPAK SC70-6"/>
+      <property name="LCSC#" value="C145467"/>
+      <property name="MFG#" value="SIA483DJ-T1-GE3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6973b46-4fee-4c0b-955f-253c51dbde6d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd8bf018-5f35-4e87-b4b6-105ea7e4f583</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>150</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1500TCE_C25082.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26bd1648-98d8-4475-9320-4daa5fc65044</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF2201TCE_C25879.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c37c5c35-3728-404a-9fc0-9a2079e16e90</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b068adff-5300-470c-bf1e-0b53b42d7bf0</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bec222f-80e4-4033-9b2d-cd621003b347</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>150</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1500TCE_C25082.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94ad2555-f1d8-4f9c-9eb8-c4e598f1a078</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF2201TCE_C25879.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb79fa90-1e5d-4ee2-a5da-7e2c96cc8079</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dad64692-76f6-4106-9cbe-098c4154c932</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>150</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1500TCE_C25082.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bff921a0-342e-4e69-9602-73a102553a8f</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF2201TCE_C25879.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd60230f-20c5-4dcc-ace0-0171c13e8080</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>2.2k 0.1%</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF2201TCE_C25879.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>194f7e43-4339-4fa5-850f-123fe32deaf4</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91a497b8-b7ab-4468-b43d-087571e3de20</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF2201TCE_C25879.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>094c2271-3148-4ea0-abf4-9c04068d4b19</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>104af68a-a276-48b0-adf2-a131515ed8a0</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7420faa6-6621-4238-b005-08def07625bd</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF3000TCE_C25102.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d472327d-a0bb-4acf-aa97-09fe19e595cf</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1200TCE_C25079.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a14e5bab-3abf-4565-8476-ff6cae1d0906</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d6e4d64-f462-41ac-aa64-701a7facc134</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>902543d7-0b28-498f-919b-85119f213ab6</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1200TCE_C25079.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a3d19e7-ef48-4deb-9fff-27962e6cc712</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a77c3246-b569-435c-8fd6-dea1f6dca697</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab96c1b0-b2f0-448a-ade3-fca5b24abe05</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1002TCE_C25744.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e72113a4-fe04-4086-88c1-d8a9726b0867</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1200TCE_C25079.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a90e5223-0bf9-48da-9aa2-4e0f146e36b2</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor---Surface-Mount_UNI-ROYALUniroyal-Elec-0402WGF1001TCE_C11702.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09e9db92-daa4-4f17-ae74-cf0f4a902f7a</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>1.5k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGJ0152TCE_C25930.html</datasheet>
+      <fields>
+        <field name="LCSC#">C25930</field>
+        <field name="MFG#">0402WGJ0152TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC#" value="C25930"/>
+      <property name="MFG#" value="0402WGJ0152TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bfb2b964-2e8f-4f44-a6dc-0683ba5e8f4e</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>120R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF1200TCE_C25079.html</datasheet>
+      <fields>
+        <field name="Description">±1% 1/10W</field>
+        <field name="LCSC#">C25079</field>
+        <field name="MFG#">0402WGF1200TCE</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Description" value="±1% 1/10W"/>
+      <property name="LCSC#" value="C25079"/>
+      <property name="MFG#" value="0402WGF1200TCE"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>498c0a0a-a367-4ad4-adfd-07c0fec0acb6</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>0.5Ω, 1%, 0.5W, 1210</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_RALEC-RTT12R500FTP_C105052.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a128df0-ec0d-4827-b5eb-0cae6a533791</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-CR-02FL6-100K_C279979.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aeaab42e-5153-40ef-96f3-fc3eb87a9208</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>0.5Ω, 1%, 0.5W, 1210</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_RALEC-RTT12R500FTP_C105052.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3df33ba6-f74a-40b8-94ab-4f43aad6c4c5</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-CR-02FL6-100K_C279979.html</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>177d953f-3629-4fb8-8514-a9b0a91946a8</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ2RKF27R0X_C413051.html</datasheet>
+      <fields>
+        <field name="LCSC#">C413051</field>
+        <field name="MFG#">ERJ2RKF27R0X</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC#" value="C413051"/>
+      <property name="MFG#" value="ERJ2RKF27R0X"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2c7d713-a132-49c2-adf6-47296ccd7517</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ2RKF27R0X_C413051.html</datasheet>
+      <fields>
+        <field name="LCSC#">C413051</field>
+        <field name="MFG#">ERJ2RKF27R0X</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC#" value="C413051"/>
+      <property name="MFG#" value="ERJ2RKF27R0X"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12ba5027-573e-4943-9240-d98dd8c6041b</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>RESET</value>
+      <footprint>Button_Switch_SMD:SW_SPST_B3U-1000P</footprint>
+      <fields>
+        <field name="LCSC#">C231329</field>
+        <field name="MFG#">B3U-1000P</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="LCSC#" value="C231329"/>
+      <property name="MFG#" value="B3U-1000P"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>159ade65-23a9-42f0-b1ff-62daa43f50f5</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>BOOT0</value>
+      <footprint>Button_Switch_SMD:SW_SPST_B3U-1000P</footprint>
+      <fields>
+        <field name="LCSC#">C231329</field>
+        <field name="MFG#">B3U-1000P</field>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="LCSC#" value="C231329"/>
+      <property name="MFG#" value="B3U-1000P"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>932ce21c-a679-41f4-a5fa-1a7ad7ef8c68</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>3V3</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b786bab-68ab-45b6-8caf-300a0ba74c8f</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>24V</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9314aa1-e2e4-44b7-aa36-4c8f8f621434</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>GND</value>
+      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83e28c5f-da8c-4c2f-8b20-6864f7fc8497</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ADXL345BCCZ-RL7</value>
+      <footprint>footprints:ADXL345BCCZ-RL7</footprint>
+      <libsource lib="ADXL345BCCZ-RL7" part="ADXL345BCCZ-RL7" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01e9b1f9-cc7c-47f2-b894-80f167dcad8c</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>STM32F103C8Tx</value>
+      <footprint>Package_QFP:LQFP-48_7x7mm_P0.5mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf</datasheet>
+      <libsource lib="MCU_ST_STM32F1" part="STM32F103C8Tx" description="ARM Cortex-M3 MCU, 64KB flash, 20KB RAM, 72MHz, 2-3.6V, 37 GPIO, LQFP-48"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d86ba37-b98f-40a5-b35f-96db8417b185</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>74LVC1G17</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>https://lcsc.com/product-detail/Buffers-Drivers_Texas-Instruments-SN74LVC1G17DBVR_C7836.html</datasheet>
+      <libsource lib="74xGxx" part="74LVC1G17" description="Single Schmitt Buffer Gate, Low-Voltage CMOS"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6fbfb67-f694-418d-a073-dfe164134315</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>LP5907MFX-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lp5907.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="LP5907MFX-3.3" description="250-mA Ultra-Low-Noise Low-IQ LDO, 3.3V, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87ba3f96-3641-48da-ad25-7da8bbbb3755</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>TMC2209-LA</value>
+      <footprint>footprints:TMC2209-LA</footprint>
+      <datasheet>https://www.trinamic.com/products/integrated-circuits/details/tmc2209-la/</datasheet>
+      <libsource lib="TMC2209-LA" part="TMC2209-LA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1e89903-da66-4565-a745-7ac1792ab424</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>TS30041-M050QFNR</value>
+      <footprint>TS30041:Semtech-QFN16-0-0-0</footprint>
+      <datasheet>https://www.semtech.com/uploads/documents/ts3004x.pdf</datasheet>
+      <fields>
+        <field name="LCSC#">C842839</field>
+        <field name="MFG#">TS30041-M050QFNR</field>
+        <field name="category">IC</field>
+        <field name="device class L1">Integrated Circuits (ICs)</field>
+        <field name="device class L2">Power Management ICs</field>
+        <field name="device class L3">Voltage Regulators - Switching</field>
+        <field name="digikey description">IC REG BUCK 5V 1A SYNC 16-VQFN</field>
+        <field name="digikey part number">TS30041-M050QFNRCT-ND</field>
+        <field name="height">1mm</field>
+        <field name="lead free">yes</field>
+        <field name="library id">4dc397c77917550b</field>
+        <field name="manufacturer">Semtech</field>
+        <field name="max duty cycle">99%</field>
+        <field name="max junction temp">+150°C</field>
+        <field name="max supply voltage">40V</field>
+        <field name="min supply voltage">4.5V</field>
+        <field name="mouser part number">947-TS30041-M050QFNR</field>
+        <field name="nominal supply current">5-3600uA</field>
+        <field name="number of outputs">1</field>
+        <field name="output current">1A</field>
+        <field name="output voltage">5V</field>
+        <field name="package">QFN16</field>
+        <field name="rohs">yes</field>
+        <field name="standoff height">0mm</field>
+        <field name="switching frequency">1MHz</field>
+        <field name="switching topology">Buck</field>
+        <field name="temperature range high">+125°C</field>
+        <field name="temperature range low">-40°C</field>
+      </fields>
+      <libsource lib="TS30041" part="TS30041-M050QFNR" description="TS30041-M050QFNR"/>
+      <property name="category" value="IC"/>
+      <property name="device class L1" value="Integrated Circuits (ICs)"/>
+      <property name="device class L2" value="Power Management ICs"/>
+      <property name="device class L3" value="Voltage Regulators - Switching"/>
+      <property name="digikey description" value="IC REG BUCK 5V 1A SYNC 16-VQFN"/>
+      <property name="digikey part number" value="TS30041-M050QFNRCT-ND"/>
+      <property name="height" value="1mm"/>
+      <property name="lead free" value="yes"/>
+      <property name="library id" value="4dc397c77917550b"/>
+      <property name="manufacturer" value="Semtech"/>
+      <property name="max duty cycle" value="99%"/>
+      <property name="max junction temp" value="+150°C"/>
+      <property name="max supply voltage" value="40V"/>
+      <property name="min supply voltage" value="4.5V"/>
+      <property name="mouser part number" value="947-TS30041-M050QFNR"/>
+      <property name="nominal supply current" value="5-3600uA"/>
+      <property name="number of outputs" value="1"/>
+      <property name="output current" value="1A"/>
+      <property name="output voltage" value="5V"/>
+      <property name="package" value="QFN16"/>
+      <property name="rohs" value="yes"/>
+      <property name="standoff height" value="0mm"/>
+      <property name="switching frequency" value="1MHz"/>
+      <property name="switching topology" value="Buck"/>
+      <property name="temperature range high" value="+125°C"/>
+      <property name="temperature range low" value="-40°C"/>
+      <property name="LCSC#" value="C842839"/>
+      <property name="MFG#" value="TS30041-M050QFNR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9a1901b-f9ba-4ad5-82eb-a461e3b9bd7d</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>USBLC6-2SC6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</datasheet>
+      <fields>
+        <field name="LCSC#">C7519</field>
+        <field name="MFG#">USBLC6-2SC6</field>
+      </fields>
+      <libsource lib="Power_Protection" part="USBLC6-2SC6" description="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
+      <property name="LCSC#" value="C7519"/>
+      <property name="MFG#" value="USBLC6-2SC6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e71a09ff-641c-4637-ba0f-a23f2f3050aa</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>TCAN330</value>
+      <footprint>Package_TO_SOT_SMD:TSOT-23-8</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tcan337.pdf</datasheet>
+      <libsource lib="Interface_CAN_LIN" part="TCAN330" description="High-Speed CAN Transceiver, 1Mbps, 3.3V supply, silent mode, shutdown mode, SOT-23-8/SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c5a8d9c-19c1-4208-aa22-f2f2f6f51ac3</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>8MHz</value>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <datasheet>https://lcsc.com/product-detail/Crystals_TAE-Zhejiang-Abel-Elec-TAXM8M4RFDCET2T_C403948.html</datasheet>
+      <fields>
+        <field name="LCSC#">C403948</field>
+        <field name="MFG#">TAXM8M4RFDCET2T</field>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
+      <property name="LCSC#" value="C403948"/>
+      <property name="MFG#" value="TAXM8M4RFDCET2T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="MiniAB-CAN-Board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11261744-70fa-477c-a824-1ef2e9b3bc24</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xGxx" part="74LVC1G17">
+      <description>Single Schmitt Buffer Gate, Low-Voltage CMOS</description>
+      <docs>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</docs>
+      <footprints>
+        <fp>SOT*</fp>
+        <fp>SG-*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LVC1G17</field>
+        <field name="Datasheet">http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</field>
+      </fields>
+      <pins>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="ADXL345BCCZ-RL7" part="ADXL345BCCZ-RL7">
+      <footprints>
+        <fp>LGA_CC-14-1_ADI</fp>
+        <fp>LGA_CC-14-1_ADI-M</fp>
+        <fp>LGA_CC-14-1_ADI-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">ADXL345BCCZ-RL7</field>
+        <field name="Footprint">LGA_CC-14-1_ADI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDDI/O" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="RESERVED" type="unspecified"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="VS" type="unspecified"/>
+        <pin num="7" name="*CS" type="unspecified"/>
+        <pin num="8" name="INT1" type="bidirectional"/>
+        <pin num="9" name="INT2" type="bidirectional"/>
+        <pin num="10" name="NC" type="no_connect"/>
+        <pin num="11" name="RESERVED" type="unspecified"/>
+        <pin num="12" name="SDO/ALTADDRESS" type="unspecified"/>
+        <pin num="13" name="SDA/SDI/SDIO" type="unspecified"/>
+        <pin num="14" name="SCL/SCLK" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B_Micro">
+      <description>USB Micro Type B connector</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B_Micro</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x05">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24">
+      <description>Four pin crystal, GND on pins 2 and 4</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead_Small">
+      <description>Ferrite bead, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Iron">
+      <description>Inductor with iron core</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Iron</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_SGD">
+      <description>N-MOSFET transistor, source/gate/drain</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_SGD</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_CAN_LIN" part="TCAN330">
+      <description>High-Speed CAN Transceiver, 1Mbps, 3.3V supply, silent mode, shutdown mode, SOT-23-8/SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tcan337.pdf</docs>
+      <footprints>
+        <fp>*TSOT?23*</fp>
+        <fp>*SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TCAN330</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tcan337.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXD" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VCC" type="power_in"/>
+        <pin num="4" name="RXD" type="tri_state"/>
+        <pin num="5" name="SHDN" type="input"/>
+        <pin num="6" name="CANL" type="bidirectional"/>
+        <pin num="7" name="CANH" type="bidirectional"/>
+        <pin num="8" name="S" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_3_Open">
+      <description>Solder Jumper, 3-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_3_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="input"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32F1" part="STM32F103C8Tx">
+      <description>ARM Cortex-M3 MCU, 64KB flash, 20KB RAM, 72MHz, 2-3.6V, 37 GPIO, LQFP-48</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf</docs>
+      <footprints>
+        <fp>LQFP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F103C8Tx</field>
+        <field name="Footprint">Package_QFP:LQFP-48_7x7mm_P0.5mm</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13" type="bidirectional"/>
+        <pin num="3" name="PC14" type="bidirectional"/>
+        <pin num="4" name="PC15" type="bidirectional"/>
+        <pin num="5" name="PD0" type="input"/>
+        <pin num="6" name="PD1" type="input"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="VSSA" type="power_in"/>
+        <pin num="9" name="VDDA" type="power_in"/>
+        <pin num="10" name="PA0" type="bidirectional"/>
+        <pin num="11" name="PA1" type="bidirectional"/>
+        <pin num="12" name="PA2" type="bidirectional"/>
+        <pin num="13" name="PA3" type="bidirectional"/>
+        <pin num="14" name="PA4" type="bidirectional"/>
+        <pin num="15" name="PA5" type="bidirectional"/>
+        <pin num="16" name="PA6" type="bidirectional"/>
+        <pin num="17" name="PA7" type="bidirectional"/>
+        <pin num="18" name="PB0" type="bidirectional"/>
+        <pin num="19" name="PB1" type="bidirectional"/>
+        <pin num="20" name="PB2" type="bidirectional"/>
+        <pin num="21" name="PB10" type="bidirectional"/>
+        <pin num="22" name="PB11" type="bidirectional"/>
+        <pin num="23" name="VSS" type="power_in"/>
+        <pin num="24" name="VDD" type="power_in"/>
+        <pin num="25" name="PB12" type="bidirectional"/>
+        <pin num="26" name="PB13" type="bidirectional"/>
+        <pin num="27" name="PB14" type="bidirectional"/>
+        <pin num="28" name="PB15" type="bidirectional"/>
+        <pin num="29" name="PA8" type="bidirectional"/>
+        <pin num="30" name="PA9" type="bidirectional"/>
+        <pin num="31" name="PA10" type="bidirectional"/>
+        <pin num="32" name="PA11" type="bidirectional"/>
+        <pin num="33" name="PA12" type="bidirectional"/>
+        <pin num="34" name="PA13" type="bidirectional"/>
+        <pin num="35" name="VSS" type="power_in"/>
+        <pin num="36" name="VDD" type="power_in"/>
+        <pin num="37" name="PA14" type="bidirectional"/>
+        <pin num="38" name="PA15" type="bidirectional"/>
+        <pin num="39" name="PB3" type="bidirectional"/>
+        <pin num="40" name="PB4" type="bidirectional"/>
+        <pin num="41" name="PB5" type="bidirectional"/>
+        <pin num="42" name="PB6" type="bidirectional"/>
+        <pin num="43" name="PB7" type="bidirectional"/>
+        <pin num="44" name="BOOT0" type="input"/>
+        <pin num="45" name="PB8" type="bidirectional"/>
+        <pin num="46" name="PB9" type="bidirectional"/>
+        <pin num="47" name="VSS" type="power_in"/>
+        <pin num="48" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Power_Protection" part="USBLC6-2SC6">
+      <description>Very low capacitance ESD protection diode, 2 data-line, SOT-23-6</description>
+      <docs>https://www.st.com/resource/en/datasheet/usblc6-2.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">USBLC6-2SC6</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/usblc6-2.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="I/O2" type="passive"/>
+        <pin num="5" name="VBUS" type="passive"/>
+        <pin num="6" name="I/O1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LP5907MFX-3.3">
+      <description>250-mA Ultra-Low-Noise Low-IQ LDO, 3.3V, SOT-23</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lp5907.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">LP5907MFX-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lp5907.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TMC2209-LA" part="TMC2209-LA">
+      <footprints>
+        <fp>QFN28_5X5_TRI</fp>
+        <fp>QFN28_5X5_TRI-M</fp>
+        <fp>QFN28_5X5_TRI-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">TMC2209-LA</field>
+        <field name="Footprint">QFN28_5X5_TRI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OB2" type="output"/>
+        <pin num="2" name="ENN" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="CPO" type="output"/>
+        <pin num="5" name="CPI" type="input"/>
+        <pin num="6" name="VCP" type="power_in"/>
+        <pin num="7" name="SPREAD" type="input"/>
+        <pin num="8" name="5VOUT" type="output"/>
+        <pin num="9" name="MS1_AD0" type="input"/>
+        <pin num="10" name="MS2_AD1" type="input"/>
+        <pin num="11" name="DIAG" type="output"/>
+        <pin num="12" name="INDEX" type="output"/>
+        <pin num="13" name="CLK" type="input"/>
+        <pin num="14" name="PDN_UART" type="bidirectional"/>
+        <pin num="15" name="VCC_IO" type="power_in"/>
+        <pin num="16" name="STEP" type="input"/>
+        <pin num="17" name="VREF" type="unspecified"/>
+        <pin num="18" name="GND" type="input"/>
+        <pin num="19" name="DIR" type="input"/>
+        <pin num="20" name="STDBY" type="power_in"/>
+        <pin num="21" name="OA2" type="output"/>
+        <pin num="22" name="VS" type="power_in"/>
+        <pin num="23" name="BRA" type="unspecified"/>
+        <pin num="24" name="OA1" type="output"/>
+        <pin num="25" name="NC" type="no_connect"/>
+        <pin num="26" name="OB1" type="output"/>
+        <pin num="27" name="BRB" type="unspecified"/>
+        <pin num="28" name="VS" type="power_in"/>
+        <pin num="29" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TS30041" part="TS30041-M050QFNR">
+      <description>TS30041-M050QFNR</description>
+      <docs>https://www.semtech.com/uploads/documents/ts3004x.pdf</docs>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">TS30041-M050QFNR</field>
+        <field name="Footprint">Semtech-QFN16-0-0-*</field>
+        <field name="Datasheet">https://www.semtech.com/uploads/documents/ts3004x.pdf</field>
+        <field name="category">IC</field>
+        <field name="device class L1">Integrated Circuits (ICs)</field>
+        <field name="device class L2">Power Management ICs</field>
+        <field name="device class L3">Voltage Regulators - Switching</field>
+        <field name="digikey description">IC REG BUCK 5V 1A SYNC 16-VQFN</field>
+        <field name="digikey part number">TS30041-M050QFNRCT-ND</field>
+        <field name="height">1mm</field>
+        <field name="lead free">yes</field>
+        <field name="library id">4dc397c77917550b</field>
+        <field name="manufacturer">Semtech</field>
+        <field name="max duty cycle">99%</field>
+        <field name="max junction temp">+150°C</field>
+        <field name="max supply voltage">40V</field>
+        <field name="min supply voltage">4.5V</field>
+        <field name="mouser part number">947-TS30041-M050QFNR</field>
+        <field name="nominal supply current">5-3600uA</field>
+        <field name="number of outputs">1</field>
+        <field name="output current">1A</field>
+        <field name="output voltage">5V</field>
+        <field name="package">QFN16</field>
+        <field name="rohs">yes</field>
+        <field name="standoff height">0mm</field>
+        <field name="switching frequency">1MHz</field>
+        <field name="switching topology">Buck</field>
+        <field name="temperature range high">+125°C</field>
+        <field name="temperature range low">-40°C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSW" type="output"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="VCC" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="FB" type="input"/>
+        <pin num="6" name="NC" type="passive"/>
+        <pin num="7" name="NC" type="passive"/>
+        <pin num="8" name="PG" type="open_collector"/>
+        <pin num="9" name="EN/SYNC" type="input"/>
+        <pin num="10" name="BST" type="passive"/>
+        <pin num="11" name="VCC" type="power_in"/>
+        <pin num="12" name="VSW" type="output"/>
+        <pin num="13" name="VSW" type="output"/>
+        <pin num="14" name="PGND" type="power_in"/>
+        <pin num="15" name="PGND" type="power_in"/>
+        <pin num="16" name="VSW" type="output"/>
+        <pin num="17" name="PAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="AO3400A">
+      <description>30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23</description>
+      <docs>http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">AO3400A</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="SiA449DJ">
+      <description>-12A Id, -30V Vds, P-Channel MOSFET, PowerPAK SC70-6</description>
+      <docs>http://www.vishay.com/docs/62644/sia449dj.pdf</docs>
+      <footprints>
+        <fp>Vishay*PowerPAK*SC70*Single*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">SiA449DJ</field>
+        <field name="Footprint">Package_TO_SOT_SMD:Vishay_PowerPAK_SC70-6L_Single</field>
+        <field name="Datasheet">http://www.vishay.com/docs/62644/sia449dj.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="3" name="G" type="passive"/>
+        <pin num="4" name="S" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xGxx">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/74xGxx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_CAN_LIN">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Interface_CAN_LIN.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM32F1">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_ST_STM32F1.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Power_Protection">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Power_Protection.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="TS30041">
+      <uri>C:\Users\finnw\OneDrive - haw-hamburg.de\Dateien\Projekte\Github\MiniAB-CAN\V0.5/libraries/TS30041-M050QFNR/eec.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3VA">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="FB2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="2" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="FB2" pin="2" pintype="passive"/>
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VDDI/O" pintype="power_in"/>
+      <node ref="U1" pin="6" pinfunction="VS" pintype="unspecified"/>
+      <node ref="U2" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U2" pin="24" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="36" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U5" pin="15" pinfunction="VCC_IO" pintype="power_in"/>
+      <node ref="U8" pin="3" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="+5V">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="IN" pintype="power_in"/>
+      <node ref="U4" pin="3" pinfunction="EN" pintype="input"/>
+      <node ref="U6" pin="5" pinfunction="FB" pintype="input"/>
+      <node ref="U7" pin="5" pinfunction="VBUS" pintype="passive"/>
+    </net>
+    <net code="4" name="+24V">
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="Q4" pin="4" pinfunction="S" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U5" pin="22" pinfunction="VS" pintype="power_in"/>
+      <node ref="U5" pin="28" pinfunction="VS" pintype="power_in"/>
+      <node ref="U6" pin="11" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="2" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="5" name="/D+">
+      <node ref="J10" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="U7" pin="6" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="6" name="/D-">
+      <node ref="J10" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="U7" pin="4" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="7" name="A1">
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U5" pin="24" pinfunction="OA1" pintype="output"/>
+    </net>
+    <net code="8" name="A2">
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U5" pin="21" pinfunction="OA2" pintype="output"/>
+    </net>
+    <net code="9" name="ADXL_CS">
+      <node ref="U1" pin="7" pinfunction="*CS" pintype="unspecified"/>
+      <node ref="U2" pin="29" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="B1">
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U5" pin="26" pinfunction="OB1" pintype="output"/>
+    </net>
+    <net code="11" name="B2">
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="OB2" pintype="output"/>
+    </net>
+    <net code="12" name="BOOT0">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="44" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="14" name="BRA">
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="U5" pin="23" pinfunction="BRA" pintype="unspecified"/>
+    </net>
+    <net code="15" name="BRB">
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="U5" pin="27" pinfunction="BRB" pintype="unspecified"/>
+    </net>
+    <net code="16" name="CAN+">
+      <node ref="J11" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="CANH" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="CAN-">
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="CANL" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="CAN_RX">
+      <node ref="U2" pin="45" pinfunction="PB8" pintype="bidirectional"/>
+      <node ref="U8" pin="4" pinfunction="RXD" pintype="tri_state"/>
+    </net>
+    <net code="19" name="CAN_TX">
+      <node ref="U2" pin="46" pinfunction="PB9" pintype="bidirectional"/>
+      <node ref="U8" pin="1" pinfunction="TXD" pintype="input"/>
+    </net>
+    <net code="20" name="ENDSTOP1">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="ENDSTOP2">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J10" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="J10" pin="6" pinfunction="Shield" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="23" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="35" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="47" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="10" pinfunction="MS2_AD1" pintype="input"/>
+      <node ref="U5" pin="13" pinfunction="CLK" pintype="input"/>
+      <node ref="U5" pin="18" pinfunction="GND" pintype="input"/>
+      <node ref="U5" pin="29" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="9" pinfunction="MS1_AD0" pintype="input"/>
+      <node ref="U6" pin="14" pinfunction="PGND" pintype="power_in"/>
+      <node ref="U6" pin="15" pinfunction="PGND" pintype="power_in"/>
+      <node ref="U6" pin="17" pinfunction="PAD" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="8" pinfunction="S" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="23" name="HE-FAN">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="HEATER">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="38" pinfunction="PA15" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="LED0">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U2" pin="39" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="NEOPIXEL">
+      <node ref="U2" pin="41" pinfunction="PB5" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(C22-Pad1)">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="VSW" pintype="output"/>
+      <node ref="U6" pin="12" pinfunction="VSW" pintype="output"/>
+      <node ref="U6" pin="13" pinfunction="VSW" pintype="output"/>
+      <node ref="U6" pin="16" pinfunction="VSW" pintype="output"/>
+    </net>
+    <net code="28" name="Net-(C22-Pad2)">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="U6" pin="10" pinfunction="BST" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(C26-Pad1)">
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="CPO" pintype="output"/>
+    </net>
+    <net code="30" name="Net-(C26-Pad2)">
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="CPI" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(C27-Pad1)">
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="VCP" pintype="power_in"/>
+    </net>
+    <net code="32" name="Net-(C28-Pad2)">
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="5VOUT" pintype="output"/>
+    </net>
+    <net code="33" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="G" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="C" pintype="input"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="C" pintype="input"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(J7-Pad2)">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="4" pintype="output"/>
+    </net>
+    <net code="50" name="Net-(J12-Pad3)">
+      <node ref="J12" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(J13-Pad3)">
+      <node ref="J13" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(J14-Pad3)">
+      <node ref="J14" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(Q3-Pad2)">
+      <node ref="Q3" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(R32-Pad2)">
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="I/O1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(R33-Pad2)">
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="I/O2" pintype="passive"/>
+    </net>
+    <net code="58" name="OSC_IN">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="PD0" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="59" name="OSC_OUT">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="PD1" pintype="input"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="60" name="PC-FAN">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="40" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="PROBE">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="PWR">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="63" name="RESET">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J9" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="64" name="SCL">
+      <node ref="U2" pin="42" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="SCLK">
+      <node ref="U1" pin="14" pinfunction="SCL/SCLK" pintype="unspecified"/>
+      <node ref="U2" pin="26" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="SDA">
+      <node ref="U2" pin="43" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="SDI">
+      <node ref="U1" pin="13" pinfunction="SDA/SDI/SDIO" pintype="unspecified"/>
+      <node ref="U2" pin="28" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="SDO">
+      <node ref="U1" pin="12" pinfunction="SDO/ALTADDRESS" pintype="unspecified"/>
+      <node ref="U2" pin="27" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="ST_DIAG">
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U2" pin="21" pinfunction="PB10" pintype="bidirectional"/>
+      <node ref="U5" pin="11" pinfunction="DIAG" pintype="output"/>
+    </net>
+    <net code="70" name="ST_DIR">
+      <node ref="U2" pin="19" pinfunction="PB1" pintype="bidirectional"/>
+      <node ref="U5" pin="19" pinfunction="DIR" pintype="input"/>
+    </net>
+    <net code="71" name="ST_ENN">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U2" pin="25" pinfunction="PB12" pintype="bidirectional"/>
+      <node ref="U5" pin="2" pinfunction="ENN" pintype="input"/>
+    </net>
+    <net code="72" name="ST_RX">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U2" pin="31" pinfunction="PA10" pintype="bidirectional"/>
+      <node ref="U5" pin="14" pinfunction="PDN_UART" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="ST_STEP">
+      <node ref="U2" pin="22" pinfunction="PB11" pintype="bidirectional"/>
+      <node ref="U5" pin="16" pinfunction="STEP" pintype="input"/>
+    </net>
+    <net code="74" name="ST_TX">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U2" pin="30" pinfunction="PA9" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="SWCLK">
+      <node ref="J9" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="37" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="SWDIO">
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="34" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="77" name="TH0">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="78" name="USB_D+">
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="U2" pin="33" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="USB_D-">
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U2" pin="32" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="unconnected-(H1-Pad1)">
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="81" name="unconnected-(H2-Pad1)">
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="82" name="unconnected-(H3-Pad1)">
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="83" name="unconnected-(H4-Pad1)">
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+    <net code="84" name="unconnected-(J10-Pad4)">
+      <node ref="J10" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="RESERVED" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="INT1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="INT2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(U1-Pad10)">
+      <node ref="U1" pin="10" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(U1-Pad11)">
+      <node ref="U1" pin="11" pinfunction="RESERVED" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="90" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="PC13" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="PC14" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="PC15" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="unconnected-(U2-Pad11)">
+      <node ref="U2" pin="11" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="unconnected-(U2-Pad12)">
+      <node ref="U2" pin="12" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="unconnected-(U2-Pad17)">
+      <node ref="U2" pin="17" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="96" name="unconnected-(U2-Pad18)">
+      <node ref="U2" pin="18" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="97" name="unconnected-(U2-Pad20)">
+      <node ref="U2" pin="20" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="98" name="unconnected-(U4-Pad4)">
+      <node ref="U4" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="99" name="unconnected-(U5-Pad7)">
+      <node ref="U5" pin="7" pinfunction="SPREAD" pintype="input+no_connect"/>
+    </net>
+    <net code="100" name="unconnected-(U5-Pad12)">
+      <node ref="U5" pin="12" pinfunction="INDEX" pintype="output+no_connect"/>
+    </net>
+    <net code="101" name="unconnected-(U5-Pad17)">
+      <node ref="U5" pin="17" pinfunction="VREF" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="102" name="unconnected-(U5-Pad20)">
+      <node ref="U5" pin="20" pinfunction="STDBY" pintype="power_in+no_connect"/>
+    </net>
+    <net code="103" name="unconnected-(U5-Pad25)">
+      <node ref="U5" pin="25" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="104" name="unconnected-(U6-Pad6)">
+      <node ref="U6" pin="6" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="105" name="unconnected-(U6-Pad7)">
+      <node ref="U6" pin="7" pinfunction="NC" pintype="passive+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(U6-Pad8)">
+      <node ref="U6" pin="8" pinfunction="PG" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(U6-Pad9)">
+      <node ref="U6" pin="9" pinfunction="EN/SYNC" pintype="input+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(U8-Pad5)">
+      <node ref="U8" pin="5" pinfunction="SHDN" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
