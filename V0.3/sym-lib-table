@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "TMC2209-LA")(type "Legacy")(uri "${KIPRJMOD}/libraries/TMC2209-LA/KiCAD/TMC2209-LA.lib")(options "")(descr ""))
-  (lib (name "ADXL345BCCZ-RL7")(type "Legacy")(uri "${KIPRJMOD}/libraries/ADXL345BCCZ-RL7/ADXL345BCCZ-RL7.lib")(options "")(descr ""))
-  (lib (name "LP5907UVX-3-3-NOPB")(type "Legacy")(uri "${KIPRJMOD}/libraries/LP5907UVX-3-3-NOPB/LP5907UVX-3-3-NOPB.lib")(options "")(descr ""))
-)

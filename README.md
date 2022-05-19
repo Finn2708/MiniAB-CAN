@@ -1,6 +1,11 @@
 # MiniAB-CAN
 Toolhead board with CAN interface for Voron Mini Afterburner.
 
-Based on [Huvud](https://github.com/bondus/KlipperToolboard) toolhead board.
+![Prototype](Images/Prototype.jpg)
 
-![PCB Rendering](Images/MiniAB-CAN-board.jpg)
+# Size
+![Size](Images/Size.jpg)
+
+# Pinout
+![Pinout](Images/STM32F103-Pinout.PNG)
+![Pinout](Images/Render_front.jpg)
