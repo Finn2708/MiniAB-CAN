@@ -12,4 +12,4 @@ Toolhead board with CAN interface for Voron Mini Afterburner.
 ![Pinout](Images/Render_front.jpg)
 
 ## Thermics
-![Thermal images](Images/Thermo_image.png) 
+![Thermal images](Images/Thermo_image.png)
