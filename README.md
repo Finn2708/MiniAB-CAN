@@ -16,9 +16,7 @@ Features:
   - [Size comparison](#size)
   - [Thermal images](#thermal-images)
 - [Pinout](#pinout)
-- [Interactive BOM](https://finn2708.github.io/MiniAB-CAN/)
-
-
+- [Interactive BOM](https://finn2708.github.io/MiniAB-CAN/index.html)
 
 ## Prototype
 ![Prototype](Images/Prototype.jpg)
@@ -32,3 +30,6 @@ Features:
 ## Pinout
 ![Pinout](Images/STM32F103-Pinout.PNG)
 ![Pinout](Images/Render_front.jpg)
+
+## BOM
+[Interactive BOM](https://finn2708.github.io/MiniAB-CAN/index.html)
